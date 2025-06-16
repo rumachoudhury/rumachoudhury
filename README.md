@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead">
 </p>
 
@@ -60,8 +60,8 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="tailwind" width="50" height="50"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="tailwind" width="50" height="50"/> </a> 
 </p> -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <!-- Frontend -->
   <b>🌐 Frontend:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />&nbsp;
