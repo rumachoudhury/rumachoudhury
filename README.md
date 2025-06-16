@@ -72,7 +72,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   
   <!-- ShadCN UI (custom icon) -->
-  <img src="https://ui.shadcn.com/" alt="ShadCN UI" width="40" height="40"/>
+  <img src="https://www.google.com/search?q=ShadCN+UI+icon&oq=ShadCN+UI+icon&gs_lcrp=EgZjaHJvbWUyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiA" alt="ShadCN UI" width="40" height="40"/>
 
 
   <b>🔙 Backend:</b><br/>
