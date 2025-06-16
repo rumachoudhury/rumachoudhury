@@ -3,16 +3,19 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Ruma Choudhury</h1>
-<h1 align="left">
-  🧑, About Me
-<!--   <h3 align="left">Hey! 👋 I'm a MERN stack developer, focusing on React for front-end and exploring Next.js. comfortanle in Node.js, Express, and MongoDB for the back end. On a mission to become a versatile full-stack developer, aiming to craft seamless, user-centric web experiences. Let's connect and build something amazing! 🚀
-</h3> -->
-  <h3>🖥️ Junior MERN + Next.js Developer | JavaScript & TypeScript Enthusiast | Bootcamp Graduate</h3>
-</h1>
+<h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
 
-<img align="right" 
-width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
+<h3 align="center">🖥️ Junior MERN + Next.js Developer | JavaScript & TypeScript Enthusiast | Bootcamp Graduate</h3>
+
+---
+
+## 📘 About Me
+
+I'm a passionate web developer with a strong foundation in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Next.js**, along with practical experience in **JavaScript** and **TypeScript**.
+
+Having recently completed an intensive IT bootcamp, I’m now focused on sharpening my skills and preparing for exciting job opportunities. I enjoy building modern, responsive web applications and exploring the latest technologies in frontend and backend development.
+
+<img align="right" width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
 
 <h3 align="left">💻 What I do:</h3>
 
