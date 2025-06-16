@@ -76,7 +76,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://shadcn-ui.com/favicon.ico" alt="ShadCN UI" width="40" height="40" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Backend -->
   <b>🔙 Backend:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />&nbsp;
@@ -85,7 +85,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Tools -->
   <b>⚙️ Tools & Platforms:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />&nbsp;
