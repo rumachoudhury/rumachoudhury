@@ -74,7 +74,8 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   
   <!-- ShadCN UI (custom icon) -->
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" alt="ShadCN UI" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="UI Components" width="40" height="40" /> ShadCN UI
+
 
 
   <b>🔙 Backend:</b><br/>
