@@ -72,16 +72,16 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   
   <!-- ShadCN UI (custom icon) -->
-  <img src="https://shadcn-ui.com/favicon.ico" alt="ShadCN UI" width="40" height="40"/>
+  <img src="https://ui.shadcn.com/" alt="ShadCN UI" width="40" height="40"/>
 
-  <!-- Backend -->
+
   <b>🔙 Backend:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
 
-  <!-- Tools -->
+ 
  <b>⚙️ Tools & Platforms:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
