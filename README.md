@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
 
-<h3 align="center">🖥️ Junior MERN + Next.js Developer | JavaScript & TypeScript Enthusiast | Bootcamp Graduate</h3>
+<h3 align="left">🖥️ Junior MERN + Next.js Developer | JavaScript & TypeScript Enthusiast | Bootcamp Graduate</h3>
 
 ---
 
@@ -19,13 +19,11 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 
 <h3 align="left">💻 What I do:</h3>
 
-- 🌱 - Crafting responsive and user-friendly interfaces using *React*
 
-- 👩‍💻 - Building RESTful APIs with *Node.js* and *Express*
-  
-- 💾 - Integrating *MongoDB* for database management with *Mongoose*
-
-- 🌐 - Creating seamless end-to-end web applications
+- 🌱  Crafting responsive and user-friendly interfaces using **React** and modern UI libraries  
+- 👩‍💻  Building **RESTful APIs** with **Node.js** and **Express** for smooth backend functionality  
+- 💾  Managing data efficiently by integrating **MongoDB** using **Mongoose**  
+- 🌐  Developing seamless **end-to-end web applications** with the **MERN + Next.js** stack  
 
 
 
