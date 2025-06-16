@@ -61,9 +61,10 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="tailwind" width="50" height="50"/> </a> 
 </p> -->
 
-<h3 align="center">🛠 Languages and Tools</h3>
-<p align="center">
+<h3 align="left">🛠 Languages and Tools</h3>
+<p align="left">
   <!-- Frontend -->
+ <b>🌐 Frontend:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
@@ -78,6 +79,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://shadcn-ui.com/favicon.ico" alt="ShadCN UI" width="40" height="40"/>
 
   <!-- Backend -->
+  <b>🔙 Backend:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
