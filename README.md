@@ -59,7 +59,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="tailwind" width="50" height="50"/> </a> 
 </p> -->
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h2 align="left">🛠 Languages and Tools</h2>
 <p align="left">
   <!-- Frontend -->
  <b>🌐 Frontend:</b><br/>
@@ -74,7 +74,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   
   <!-- ShadCN UI (custom icon) -->
-  <img src="https://www.google.com/search?q=ShadCN+UI+icon&oq=ShadCN+UI+icon&gs_lcrp=EgZjaHJvbWUyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiA" alt="ShadCN UI" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" alt="ShadCN UI" width="40" height="40"/>
 
 
   <b>🔙 Backend:</b><br/>
@@ -91,7 +91,8 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 
   <!-- AgileALM (placeholder icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Agile_Manifesto_logo.svg" alt="AgileALM" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Agile_Manifesto_logo.svg" alt="AgileALM" width="40" height="40"/>
+
 </p>
 
 
