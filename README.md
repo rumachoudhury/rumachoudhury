@@ -29,15 +29,15 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 
  <h3 align="left">👀 Current Focus:</h3>
 
-Exploring and building with Next.js 🚀
+1. Exploring and building with Next.js 🚀
 
-Working extensively with React ⚛️
+2. Working extensively with React ⚛️
 
-Developing backend APIs using Node.js, Express, MongoDB, and Mongoose 🛠️
+3. Developing backend APIs using Node.js, Express, MongoDB, and Mongoose 🛠️
 
-Creating seamless full-stack web applications 🌐💻
+4. Creating seamless full-stack web applications 🌐💻
 
-Committed to continuous learning and growth 📚
+5. Committed to continuous learning and growth 📚
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
