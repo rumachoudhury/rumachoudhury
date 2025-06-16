@@ -73,6 +73,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />&nbsp;
+<!--   <img src="https://shadcn-ui.com/favicon.ico" alt="ShadCN UI" width="40" height="40" /> -->
   <img src="https://shadcn-ui.com/favicon.ico" alt="ShadCN UI" width="40" height="40" />
 </p>
 
@@ -92,6 +93,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />&nbsp;
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Agile_Manifesto_logo.svg" alt="AgileALM" width="40" height="40" /> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Agile_Manifesto_logo.svg" alt="AgileALM" width="40" height="40" />
 </p>
 
