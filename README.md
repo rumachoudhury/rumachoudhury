@@ -37,7 +37,9 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 
 4. Creating seamless full-stack web applications 🌐💻
 
-5. Committed to continuous learning and growth 📚
+5.Writing end-to-end tests with Cypress ✅
+
+6. Committed to continuous learning and growth 📚
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
