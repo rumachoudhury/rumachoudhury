@@ -72,11 +72,8 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
-  
   <!-- ShadCN UI (custom icon) -->
-<img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="UI Components" width="40" height="40" /> ShadCN UI
-
-
+<img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" alt="UI Components" width="40" height="40" /> 
 
   <b>🔙 Backend:</b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
