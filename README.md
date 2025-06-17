@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead">
+<!--   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead"> -->
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Woman Developer" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
