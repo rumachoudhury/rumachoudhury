@@ -57,7 +57,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 <h2 align="left">🛠 Languages and Tools</h2>
 <p align="left">
   <!-- Frontend -->
- <b>🌐 Frontend:</b><br/>
+ <b><h2>🌐Frontend:</h2></b><br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
