@@ -24,6 +24,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 
 
  <h3 align="left">👀 Current Focus:</h3>
+ <h3 align="left">👀 <span style="color:red;">Current Focus:</span></h3>
 
 1. Exploring and building with Next.js 🚀
 
