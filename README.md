@@ -15,16 +15,13 @@ I'm a passionate web developer with a strong foundation in the **MERN Stack (Mon
 Having recently completed an intensive IT bootcamp, I’m now focused on sharpening my skills and preparing for exciting job opportunities. I enjoy building modern, responsive web applications and exploring the latest technologies in frontend and backend development.
 
 <img align="right" width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
-<img align="right" width="400" height="350" src="https://photos.google.com/photo/AF1QipMee0ogmKCXUzHl4BHqJchNkPXdjpJze_SkzejY"
 
 <h3 align="left">💻 What I do:</h3>
-
 
 - 🌱  Crafting responsive and user-friendly interfaces using **React** and modern UI libraries  
 - 👩‍💻  Building **RESTful APIs** with **Node.js** and **Express** for smooth backend functionality  
 - 💾  Managing data efficiently by integrating **MongoDB** using **Mongoose**  
 - 🌐  Developing seamless **end-to-end web applications** with the **MERN + Next.js** stack  
-
 
 
  <h3 align="left">👀 Current Focus:</h3>
