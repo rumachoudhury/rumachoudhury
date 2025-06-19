@@ -13,7 +13,7 @@ I'm a passionate web developer with a strong foundation in the **MERN Stack (Mon
 
 Having recently completed an intensive IT bootcamp, I’m now focused on sharpening my skills and preparing for exciting job opportunities. I enjoy building modern, responsive web applications and exploring the latest technologies in frontend and backend development.
 
-<img align="right" width="400" height="350" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
+<img align="right" width="400" height="350" src="" />
 
 <h3 align="left">💻 What I do:</h3>
 
