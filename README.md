@@ -15,7 +15,7 @@ I'm a passionate web developer with a strong foundation in the **MERN Stack (Mon
 
 Having recently completed an intensive IT bootcamp, I’m now focused on sharpening my skills and preparing for exciting job opportunities. I enjoy building modern, responsive web applications and exploring the latest technologies in frontend and backend development.
 
-<img align="right" width="400" height="350" src="" />
+<img align="right" width="400" height="350" src="src="./giphy.gif" alt="Woman Developer Working"" />
 
 <h3 align="left">💻 What I do:</h3>
 
