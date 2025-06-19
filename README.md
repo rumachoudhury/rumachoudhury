@@ -4,7 +4,7 @@
 <!--   <img src="https://assets6.lottiefiles.com/packages/lf20_x62chJ.json" alt="Woman Developer Coding" width="300"> -->
 </p>
 <p align="center">
-  <img src="./giphy.gif" alt="Woman Developer Working" width="350">
+  <img src=".giphy (1).gif" alt="Woman Developer Working" width="350">
 </p>
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
