@@ -1,7 +1,7 @@
 <p align="left">
 <!--   <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="MasterHead"> -->
 <!--    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Woman Developer Working" width="100%"> -->
-  <img src="https://assets6.lottiefiles.com/packages/lf20_x62chJ.json" alt="Woman Developer Coding" width="300">
+<!--   <img src="https://assets6.lottiefiles.com/packages/lf20_x62chJ.json" alt="Woman Developer Coding" width="300"> -->
 </p>
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
