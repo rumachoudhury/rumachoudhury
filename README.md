@@ -17,9 +17,8 @@ I'm a passionate web developer with a strong foundation in the **MERN Stack (Mon
 Having recently completed an intensive IT bootcamp, I’m now focused on sharpening my skills and preparing for exciting job opportunities. I enjoy building modern, responsive web applications and exploring the latest technologies in frontend and backend development.
 
 
-  <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/mac-jpg.jpg?raw=true" width="400" height="400" alt="My Coding Setup"/>
-
 <h3 align="left">💻 What I do:</h3>
+  <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/mac-jpg.jpg?raw=true" width="400" height="400" alt="My Coding Setup"/>
 
 - 🌱  Crafting responsive and user-friendly interfaces using **React** and modern UI libraries  
 - 👩‍💻  Building **RESTful APIs** with **Node.js** and **Express** for smooth backend functionality  
