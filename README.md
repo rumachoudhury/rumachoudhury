@@ -10,7 +10,7 @@
 <h3 align="left">🖥️ Junior MERN + Next.js Developer | JavaScript & TypeScript Enthusiast | Bootcamp Graduate</h3>
 
 
-## 📘 About Me
+ 📘 About Me
 
 I'm a passionate web developer with a strong foundation in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Next.js**, along with practical experience in **JavaScript** and **TypeScript**.
 
