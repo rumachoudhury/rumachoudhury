@@ -1,7 +1,7 @@
 <p align="left">
 
 <!--   <img src="https://assets6.lottiefiles.com/packages/lf20_x62chJ.json" alt="Woman Developer Coding" width="300"> -->
-  <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/mac-jpg.jpg?raw=true" width="600" alt="My Coding Setup"/>
+  <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/mac-jpg.jpg?raw=true" width="900" alt="My Coding Setup"/>
    
 </p>
 
