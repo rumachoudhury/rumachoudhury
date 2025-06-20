@@ -18,7 +18,7 @@ Having recently completed an intensive IT bootcamp, I’m now focused on sharpen
 
 
 <h3 align="left">💻 What I do:</h3>
-  <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/mac-jpg.jpg?raw=true" width="400" height="400" alt="My Coding Setup"/>
+  <img  align="right" src="https://github.com/rumachoudhury/rumachoudhury/blob/main/mac-jpg.jpg?raw=true" width="400" height="400" alt="My Coding Setup"/>
 
 - 🌱  Crafting responsive and user-friendly interfaces using **React** and modern UI libraries  
 - 👩‍💻  Building **RESTful APIs** with **Node.js** and **Express** for smooth backend functionality  
