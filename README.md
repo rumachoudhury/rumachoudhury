@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp" width="900" height="400" alt="My Coding Setup" style="object-fit:cover; hight:400px; width:100%"/>   
+  <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" width="900" height="400" alt="My Coding Setup" />
 </p>
 
 
