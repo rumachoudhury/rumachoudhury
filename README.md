@@ -1,9 +1,7 @@
 <p align="left">
 <!--   <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" width="900" height="400" alt="My Coding Setup" /> -->
   <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" alt="My Coding Setup" style="max-width: 100%; height: auto;" /> -->
-
- 
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFAdW2rlLI6vQ/profile-displaybackgroundimage-shrink_350_1"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFAdW2rlLI6vQ/profile-displaybackgroundimage-shrink_350_1400/B4DZedmaUYGUAY-/0/1750695782134?e=1781136000&v=beta&t=gz0LTcS1vllpiafZlbGJ0EsHYAmHCZ-yhM30caeJCjk"/>
  
 </p>
 
