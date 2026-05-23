@@ -1,8 +1,9 @@
 <p align="left">
 <!--   <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" width="900" height="400" alt="My Coding Setup" /> -->
   <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" alt="My Coding Setup" style="max-width: 100%; height: auto;" /> -->
-<p>Ruma Choudhury</p>
-  <img  src="https://five.co/wp-content/uploads/2023/08/blog-mern-stack-1024x451.png"/>
+
+ 
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQFAdW2rlLI6vQ/profile-displaybackgroundimage-shrink_350_1"/>
  
 </p>
 
