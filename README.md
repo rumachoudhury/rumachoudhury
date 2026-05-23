@@ -2,7 +2,7 @@
 <!--   <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" width="900" height="400" alt="My Coding Setup" /> -->
   <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" alt="My Coding Setup" style="max-width: 100%; height: auto;" /> -->
 
-  <img  src="https://codei5.com/wp-content/uploads/2025/12/MERN-Stack-Developer-Roadmap-2026.png"/>
+  <img  src="https://five.co/wp-content/uploads/2023/08/blog-mern-stack-1024x451.png"/>
  
 </p>
 
