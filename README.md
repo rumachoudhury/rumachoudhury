@@ -10,7 +10,7 @@
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
 
-<h3 align="left">🖥️ Junior MERN + Next.js Developer | JavaScript & TypeScript Enthusiast | Bootcamp Graduate</h3>
+<h3 align="left">🖥️ MERN + Next.js Developer | JavaScript & TypeScript Enthusiast | Bootcamp Graduate</h3>
 
 
  📘 About Me
