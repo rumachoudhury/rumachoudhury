@@ -3,7 +3,8 @@
   <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" alt="My Coding Setup" style="max-width: 100%; height: auto;" /> -->
  
    <!-- <img src="https://vinncorp.com/wp-content/uploads/2023/11/banner-jpg.webp"/>--> 
- 
+  
+ <img src="https://Screenshot_20260818_210438_Gallery-EDIT.jpg"/>
 </p>
 
 
