@@ -1,10 +1,17 @@
-<p align="left">
+<!-- <p align="left">
   <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" width="900" height="400" alt="My Coding Setup" /> -->
  
   <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" alt="My Coding Setup" style="max-width: 100%; height: auto;" /> -->
  
   <img src="https://vinncorp.com/wp-content/uploads/2023/11/banner-jpg.webp"/> 
  
+</p> -->
+<p align="center">
+  <img
+    src="https://github.com/rumachoudhury/rumachoudhury/blob/main/Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
+    alt="Ruma Choudhury"
+    width="300"
+  />
 </p>
 
 
