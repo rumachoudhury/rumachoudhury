@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true"
+    src="https://vinncorp.com/wp-content/uploads/2023/11/banner-jpg.webp"
     width="100%"
     alt="Ruma Choudhury - Full-Stack Developer"
   />
@@ -20,7 +20,7 @@
     src="https://github.com/rumachoudhury/rumachoudhury/blob/main/Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
     width="150"
     height="150"
-    style="border-radius:50%; object-fit:cover;"
+    style="border-radius100%; object-fit:cover;"
     alt="Ruma Choudhury"
   />
 </p>
