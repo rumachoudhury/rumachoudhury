@@ -7,13 +7,29 @@
  <img src="https://photos.google.com/photo/AF1QipMpYAcxOkgRRmBN-BDakg-Dk-AJMCQ8vIAU9hOV"/>
 </p> -->
 
-<p align="center">
+<div align="center">
+
+  <img
+    src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true"
+    width="100%"
+    alt="Hero Banner"
+  />
+
+  <br>
+
   <img
     src="https://github.com/rumachoudhury/rumachoudhury/blob/main/Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
-    alt="Ruma Choudhury - Full-Stack Developer"
-    width="100%"
+    width="150"
+    height="150"
+    style="border-radius: 50%; object-fit: cover;"
+    alt="Ruma Choudhury"
   />
-</p>
+
+  <h1>Hi, I'm Ruma Choudhury 👋</h1>
+
+  <h3>Full-Stack Developer | MERN Stack</h3>
+
+</div>
 
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
