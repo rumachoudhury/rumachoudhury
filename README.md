@@ -7,25 +7,23 @@
  <img src="https://photos.google.com/photo/AF1QipMpYAcxOkgRRmBN-BDakg-Dk-AJMCQ8vIAU9hOV"/>
 </p> -->
 
-<div align="center">
-
+<p align="center">
   <img
     src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true"
     width="100%"
-    alt="Hero Banner"
+    alt="Ruma Choudhury - Full-Stack Developer"
   />
+</p>
 
-  <br>
-
+<p align="center">
   <img
     src="https://github.com/rumachoudhury/rumachoudhury/blob/main/Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
     width="150"
     height="150"
-    style="border-radius: 50%; object-fit: cover;"
+    style="border-radius:50%; object-fit:cover;"
     alt="Ruma Choudhury"
   />
-
-</div>
+</p>
 
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
