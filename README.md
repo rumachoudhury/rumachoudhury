@@ -25,10 +25,6 @@
     alt="Ruma Choudhury"
   />
 
-  <h1>Hi, I'm Ruma Choudhury 👋</h1>
-
-  <h3>Full-Stack Developer | MERN Stack</h3>
-
 </div>
 
 
