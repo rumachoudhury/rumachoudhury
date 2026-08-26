@@ -8,7 +8,7 @@
 </p> -->
 <p align="center">
   <img
-    src="https://github.com/rumachoudhury/rumachoudhury/blob/main/Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
+    src="Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
     alt="Ruma Choudhury"
     width="300"
   />
