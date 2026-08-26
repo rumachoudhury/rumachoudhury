@@ -7,11 +7,11 @@
  <img src="https://photos.google.com/photo/AF1QipMpYAcxOkgRRmBN-BDakg-Dk-AJMCQ8vIAU9hOV"/>
 </p> -->
 
-<p align="left">
-  <img 
+<p align="center">
+  <img
     src="https://github.com/rumachoudhury/rumachoudhury/blob/main/Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
-    alt="Ruma Choudhury"
-    width="900"
+    alt="Ruma Choudhury - Full-Stack Developer"
+    width="100%"
   />
 </p>
 
