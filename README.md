@@ -1,18 +1,11 @@
-<!-- <p align="left">
-  <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" width="900" height="400" alt="My Coding Setup" /> -->
- 
+<p align="left">
+
   <!-- <img src="https://github.com/rumachoudhury/rumachoudhury/blob/main/web2.webp?raw=true" alt="My Coding Setup" style="max-width: 100%; height: auto;" /> -->
  
-  <img src="https://vinncorp.com/wp-content/uploads/2023/11/banner-jpg.webp"/> 
+   <!-- <img src="https://vinncorp.com/wp-content/uploads/2023/11/banner-jpg.webp"/>--> 
  
-</p> -->
-<p align="center">
-  <img
-    src="Screenshot_20260818_210438_Gallery-EDIT.jpg?raw=true"
-    alt="Ruma Choudhury"
-    width="300"
-  />
 </p>
+
 
 
 <h1 align="center">👋 Hi, I'm Ruma Choudhury!</h1>
